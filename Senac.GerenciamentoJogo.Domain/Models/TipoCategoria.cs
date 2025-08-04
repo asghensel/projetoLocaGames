@@ -2,8 +2,8 @@
 {
     public enum TipoCategoria
     {
-        Bronze,
-        Prata,
-        Ouro,
+        Bronze = 1, 
+        Prata = 2,
+        Ouro = 3,
     }
 }

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Senac.GerenciamentoJogo.API.props" />
+</Project>

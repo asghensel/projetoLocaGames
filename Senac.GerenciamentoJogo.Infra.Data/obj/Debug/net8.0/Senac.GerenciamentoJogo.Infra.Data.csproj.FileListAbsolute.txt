@@ -1,0 +1,15 @@
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Infra.Data\bin\Debug\net8.0\Senac.GerenciamentoJogo.Infra.Data.deps.json
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Infra.Data\bin\Debug\net8.0\Senac.GerenciamentoJogo.Infra.Data.dll
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Infra.Data\bin\Debug\net8.0\Senac.GerenciamentoJogo.Infra.Data.pdb
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Infra.Data\bin\Debug\net8.0\Senac.GerenciamentoJogo.Domain.dll
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Infra.Data\bin\Debug\net8.0\Senac.GerenciamentoJogo.Domain.pdb
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Infra.Data\obj\Debug\net8.0\Senac.GerenciamentoJogo.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Infra.Data\obj\Debug\net8.0\Senac.GerenciamentoJogo.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Infra.Data\obj\Debug\net8.0\Senac.GerenciamentoJogo.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Infra.Data\obj\Debug\net8.0\Senac.GerenciamentoJogo.Infra.Data.AssemblyInfo.cs
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Infra.Data\obj\Debug\net8.0\Senac.GerenciamentoJogo.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Infra.Data\obj\Debug\net8.0\Senac.Ge.0BFC1E9F.Up2Date
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Infra.Data\obj\Debug\net8.0\Senac.GerenciamentoJogo.Infra.Data.dll
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Infra.Data\obj\Debug\net8.0\refint\Senac.GerenciamentoJogo.Infra.Data.dll
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Infra.Data\obj\Debug\net8.0\Senac.GerenciamentoJogo.Infra.Data.pdb
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Infra.Data\obj\Debug\net8.0\ref\Senac.GerenciamentoJogo.Infra.Data.dll

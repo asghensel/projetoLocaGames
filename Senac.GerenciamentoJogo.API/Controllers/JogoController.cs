@@ -39,12 +39,8 @@ namespace Senac.GerenciamentoJogo.API.Controllers
         {
             try
             {
-                var jogoDetalhadoResponse = await _jogoService.ObterDetalhesJogo(id);
-                if (jogoDetalhadoResponse == null)
-                {
-                    return NotFound(new ErroResponse { Mensagem = "Jogo não encontrado." });
-                }
-                return Ok(jogoDetalhadoResponse);
+                var jogo = await _jogoService.ObterDetalhesJogo(id);
+                return Ok(jogo);
             }
             catch (Exception ex)
             {
@@ -134,11 +130,11 @@ namespace Senac.GerenciamentoJogo.API.Controllers
         }
 
         [HttpPut("{id}Devolver-Jogo")]
-        public async Task<IActionResult> DevolverJogo([FromRoute] long id, [FromBody] DevolverRequest devolverRequest)
+       public async Task<IActionResult> DevolverJogo([FromRoute] long id)
         {
             try
             {
-                await _jogoService.DevolverJogo(id, devolverRequest);
+                await _jogoService.DevolverJogo(id);
                 return Ok(new { Mensagem = "Jogo atualizado com sucesso." });
             }
             catch (Exception ex)

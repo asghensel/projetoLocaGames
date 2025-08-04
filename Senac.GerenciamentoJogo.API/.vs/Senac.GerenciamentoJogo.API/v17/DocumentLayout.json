@@ -3,36 +3,21 @@
   "WorkspaceRootPath": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E534EDF3-31BB-49C5-AEB8-3298A5DC3A04}|..\\Senac.GerenciamentoJogo.Domain\\Senac.GerenciamentoJogo.Domain.csproj|c:\\users\\brunohenselbritesjun\\source\\repos\\senac.gerenciamentojogo.domain\\services\\jogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E67D10B3-31FD-4B93-B706-E39CB1595800}|..\\Senac.GerenciamentoJogo.Infra.Data\\Senac.GerenciamentoJogo.Infra.Data.csproj|c:\\users\\brunohenselbritesjun\\source\\repos\\senac.gerenciamentojogo.infra.data\\repositories\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C566163-5A49-43DD-84D6-9830A204B29B}|Senac.GerenciamentoJogo.API.csproj|c:\\users\\brunohenselbritesjun\\source\\repos\\senac.gerenciamentojogo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C566163-5A49-43DD-84D6-9830A204B29B}|Senac.GerenciamentoJogo.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E67D10B3-31FD-4B93-B706-E39CB1595800}|..\\Senac.GerenciamentoJogo.Infra.Data\\Senac.GerenciamentoJogo.Infra.Data.csproj|c:\\users\\brunohenselbritesjun\\source\\repos\\senac.gerenciamentojogo.infra.data\\databaseconfigurations\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C566163-5A49-43DD-84D6-9830A204B29B}|Senac.GerenciamentoJogo.API.csproj|c:\\users\\brunohenselbritesjun\\source\\repos\\senac.gerenciamentojogo.api\\senac.gerenciamentojogo.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3C566163-5A49-43DD-84D6-9830A204B29B}|Senac.GerenciamentoJogo.API.csproj|solutionrelative:senac.gerenciamentojogo.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C566163-5A49-43DD-84D6-9830A204B29B}|Senac.GerenciamentoJogo.API.csproj|c:\\users\\brunohenselbritesjun\\source\\repos\\senac.gerenciamentojogo.api\\controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C566163-5A49-43DD-84D6-9830A204B29B}|Senac.GerenciamentoJogo.API.csproj|solutionrelative:controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E534EDF3-31BB-49C5-AEB8-3298A5DC3A04}|..\\Senac.GerenciamentoJogo.Domain\\Senac.GerenciamentoJogo.Domain.csproj|c:\\users\\brunohenselbritesjun\\source\\repos\\senac.gerenciamentojogo.domain\\models\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E67D10B3-31FD-4B93-B706-E39CB1595800}|..\\Senac.GerenciamentoJogo.Infra.Data\\Senac.GerenciamentoJogo.Infra.Data.csproj|c:\\users\\brunohenselbritesjun\\source\\repos\\senac.gerenciamentojogo.infra.data\\repositories\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E534EDF3-31BB-49C5-AEB8-3298A5DC3A04}|..\\Senac.GerenciamentoJogo.Domain\\Senac.GerenciamentoJogo.Domain.csproj|c:\\users\\brunohenselbritesjun\\source\\repos\\senac.gerenciamentojogo.domain\\repositories\\ijogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E534EDF3-31BB-49C5-AEB8-3298A5DC3A04}|..\\Senac.GerenciamentoJogo.Domain\\Senac.GerenciamentoJogo.Domain.csproj|c:\\users\\brunohenselbritesjun\\source\\repos\\senac.gerenciamentojogo.domain\\services\\ijogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E534EDF3-31BB-49C5-AEB8-3298A5DC3A04}|..\\Senac.GerenciamentoJogo.Domain\\Senac.GerenciamentoJogo.Domain.csproj|c:\\users\\brunohenselbritesjun\\source\\repos\\senac.gerenciamentojogo.domain\\dtos\\request\\alugarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E534EDF3-31BB-49C5-AEB8-3298A5DC3A04}|..\\Senac.GerenciamentoJogo.Domain\\Senac.GerenciamentoJogo.Domain.csproj|c:\\users\\brunohenselbritesjun\\source\\repos\\senac.gerenciamentojogo.domain\\dtos\\request\\devolverrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E534EDF3-31BB-49C5-AEB8-3298A5DC3A04}|..\\Senac.GerenciamentoJogo.Domain\\Senac.GerenciamentoJogo.Domain.csproj|c:\\users\\brunohenselbritesjun\\source\\repos\\senac.gerenciamentojogo.domain\\dtos\\response\\jogo\\cadastrarresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E534EDF3-31BB-49C5-AEB8-3298A5DC3A04}|..\\Senac.GerenciamentoJogo.Domain\\Senac.GerenciamentoJogo.Domain.csproj|c:\\users\\brunohenselbritesjun\\source\\repos\\senac.gerenciamentojogo.domain\\models\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,19 +27,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DbConnectionFactory.cs",
-              "DocumentMoniker": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Infra.Data\\DataBaseConfigurations\\DbConnectionFactory.cs",
-              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoJogo.Infra.Data\\DataBaseConfigurations\\DbConnectionFactory.cs",
-              "ToolTip": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Infra.Data\\DataBaseConfigurations\\DbConnectionFactory.cs",
-              "RelativeToolTip": "..\\Senac.GerenciamentoJogo.Infra.Data\\DataBaseConfigurations\\DbConnectionFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "JogoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Infra.Data\\Repositories\\JogoRepository.cs",
+              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoJogo.Infra.Data\\Repositories\\JogoRepository.cs",
+              "ToolTip": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Infra.Data\\Repositories\\JogoRepository.cs",
+              "RelativeToolTip": "..\\Senac.GerenciamentoJogo.Infra.Data\\Repositories\\JogoRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwEoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T00:52:45.277Z",
+              "WhenOpened": "2025-08-04T23:08:19.17Z",
               "EditorCaption": ""
             },
             {
@@ -65,113 +50,48 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T00:44:30.286Z",
+              "WhenOpened": "2025-08-04T23:06:02.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "JogoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Infra.Data\\Repositories\\JogoRepository.cs",
-              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoJogo.Infra.Data\\Repositories\\JogoRepository.cs",
-              "ToolTip": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Infra.Data\\Repositories\\JogoRepository.cs",
-              "RelativeToolTip": "..\\Senac.GerenciamentoJogo.Infra.Data\\Repositories\\JogoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T00:41:43.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JogoService.cs",
-              "DocumentMoniker": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Domain\\Services\\JogoService.cs",
-              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoJogo.Domain\\Services\\JogoService.cs",
-              "ToolTip": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Domain\\Services\\JogoService.cs",
-              "RelativeToolTip": "..\\Senac.GerenciamentoJogo.Domain\\Services\\JogoService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAkwDMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T00:41:20.927Z",
+              "DocumentIndex": 2,
+              "Title": "Senac.GerenciamentoJogo.API.http",
+              "DocumentMoniker": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.API\\Senac.GerenciamentoJogo.API.http",
+              "RelativeDocumentMoniker": "Senac.GerenciamentoJogo.API.http",
+              "ToolTip": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.API\\Senac.GerenciamentoJogo.API.http",
+              "RelativeToolTip": "Senac.GerenciamentoJogo.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-04T23:06:02.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "JogoController.cs",
-              "DocumentMoniker": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.API\\Controllers\\JogoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\JogoController.cs",
-              "ToolTip": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.API\\Controllers\\JogoController.cs",
-              "RelativeToolTip": "Controllers\\JogoController.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAqwHoAAAA3AAAAAAAAAA==",
+              "Title": "TipoCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Domain\\Models\\TipoCategoria.cs",
+              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoJogo.Domain\\Models\\TipoCategoria.cs",
+              "ToolTip": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Domain\\Models\\TipoCategoria.cs",
+              "RelativeToolTip": "..\\Senac.GerenciamentoJogo.Domain\\Models\\TipoCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T00:19:56.31Z",
+              "WhenOpened": "2025-08-04T23:03:45.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IJogoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Domain\\Repositories\\IJogoRepository.cs",
-              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoJogo.Domain\\Repositories\\IJogoRepository.cs",
-              "ToolTip": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Domain\\Repositories\\IJogoRepository.cs",
-              "RelativeToolTip": "..\\Senac.GerenciamentoJogo.Domain\\Repositories\\IJogoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Jogo.cs",
+              "DocumentMoniker": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Domain\\Models\\Jogo.cs",
+              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoJogo.Domain\\Models\\Jogo.cs",
+              "ToolTip": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Domain\\Models\\Jogo.cs",
+              "RelativeToolTip": "..\\Senac.GerenciamentoJogo.Domain\\Models\\Jogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T00:41:37.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CadastrarResponse.cs",
-              "DocumentMoniker": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Domain\\Dtos\\Response\\Jogo\\CadastrarResponse.cs",
-              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoJogo.Domain\\Dtos\\Response\\Jogo\\CadastrarResponse.cs",
-              "ToolTip": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Domain\\Dtos\\Response\\Jogo\\CadastrarResponse.cs",
-              "RelativeToolTip": "..\\Senac.GerenciamentoJogo.Domain\\Dtos\\Response\\Jogo\\CadastrarResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T00:39:32.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AlugarRequest.cs",
-              "DocumentMoniker": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Domain\\Dtos\\Request\\AlugarRequest.cs",
-              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoJogo.Domain\\Dtos\\Request\\AlugarRequest.cs",
-              "ToolTip": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Domain\\Dtos\\Request\\AlugarRequest.cs",
-              "RelativeToolTip": "..\\Senac.GerenciamentoJogo.Domain\\Dtos\\Request\\AlugarRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T00:35:49.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DevolverRequest.cs",
-              "DocumentMoniker": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Domain\\Dtos\\Request\\DevolverRequest.cs",
-              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoJogo.Domain\\Dtos\\Request\\DevolverRequest.cs",
-              "ToolTip": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Domain\\Dtos\\Request\\DevolverRequest.cs",
-              "RelativeToolTip": "..\\Senac.GerenciamentoJogo.Domain\\Dtos\\Request\\DevolverRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T00:35:39.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IJogoService.cs",
-              "DocumentMoniker": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Domain\\Services\\IJogoService.cs",
-              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoJogo.Domain\\Services\\IJogoService.cs",
-              "ToolTip": "C:\\Users\\BRUNOHENSELBRITESJUN\\source\\repos\\Senac.GerenciamentoJogo.Domain\\Services\\IJogoService.cs",
-              "RelativeToolTip": "..\\Senac.GerenciamentoJogo.Domain\\Services\\IJogoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T00:23:23.734Z",
+              "WhenOpened": "2025-08-04T23:02:51.293Z",
               "EditorCaption": ""
             }
           ]

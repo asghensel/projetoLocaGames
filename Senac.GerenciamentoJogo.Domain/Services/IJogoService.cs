@@ -9,7 +9,7 @@ namespace Senac.GerenciamentoJogo.Domain.Services
         Task AtualizarJogo(long id, AtualizarRequest atualizarRequest);
         Task<CadastrarResponse> CadastrarJogo(CadastrarRequest cadastrarRequest);
         Task DeletarJogo(long id);
-        Task DevolverJogo(long id, DevolverRequest devolverRequest);
+        Task DevolverJogo(long id);
         Task<DetalhesJogoResponse> ObterDetalhesJogo(long id);
         Task<IEnumerable<TodosJogosResponse>> ObterTodos();
     }

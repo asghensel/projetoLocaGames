@@ -8,6 +8,7 @@
         public bool Disponivel { get; set; }
         public string Responsavel { get; set; }
         public TipoCategoria Categoria { get; set; }
-        public DateTime DataRetirada { get; set; }
+        public DateTime? DataRetirada { get; set; }
+        public bool IsEmAtraso{get; set;}
     }
 }

@@ -1,0 +1,118 @@
+[
+  {
+    "ContainingType": "Senac.GerenciamentoJogo.API.Controllers.JogoController",
+    "Method": "AlugarJogo",
+    "RelativePath": "api/Jogo/{id}Alugar-Jogo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "alugarRequest",
+        "Type": "Senac.GerenciamentoJogo.Domain.Dtos.Request.AlugarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Senac.GerenciamentoJogo.API.Controllers.JogoController",
+    "Method": "AtualizarJogo",
+    "RelativePath": "api/Jogo/{id}Atualizar-Jogo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "atualizarRequest",
+        "Type": "Senac.GerenciamentoJogo.Domain.Dtos.Request.AtualizarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Senac.GerenciamentoJogo.API.Controllers.JogoController",
+    "Method": "DeletarJogo",
+    "RelativePath": "api/Jogo/{id}Deletar-Jogo",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Senac.GerenciamentoJogo.API.Controllers.JogoController",
+    "Method": "DevolverJogo",
+    "RelativePath": "api/Jogo/{id}Devolver-Jogo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Senac.GerenciamentoJogo.API.Controllers.JogoController",
+    "Method": "ObterDetalhesJogos",
+    "RelativePath": "api/Jogo/{id}Obter-Detalhes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Senac.GerenciamentoJogo.API.Controllers.JogoController",
+    "Method": "CadastrarJogo",
+    "RelativePath": "api/Jogo/Cadastrar-Jogo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cadastrarRequest",
+        "Type": "Senac.GerenciamentoJogo.Domain.Dtos.Request.CadastrarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Senac.GerenciamentoJogo.API.Controllers.JogoController",
+    "Method": "ObterTodos",
+    "RelativePath": "api/Jogo/Obter-Todos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

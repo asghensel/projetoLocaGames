@@ -6,7 +6,7 @@
         public string Descricao { get; set; }
         public string TipoCategoria { get; set; }
         public string Responsavel { get; set; } 
-        public DateTime DataRetirada { get; set; } 
+        DateTime DataRetirada { get; set; } 
         public bool Disponivel { get; set; } 
         
     }

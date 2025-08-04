@@ -1,0 +1,11 @@
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Domain\bin\Debug\net8.0\Senac.GerenciamentoJogo.Domain.deps.json
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Domain\bin\Debug\net8.0\Senac.GerenciamentoJogo.Domain.dll
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Domain\bin\Debug\net8.0\Senac.GerenciamentoJogo.Domain.pdb
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Domain\obj\Debug\net8.0\Senac.GerenciamentoJogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Domain\obj\Debug\net8.0\Senac.GerenciamentoJogo.Domain.AssemblyInfoInputs.cache
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Domain\obj\Debug\net8.0\Senac.GerenciamentoJogo.Domain.AssemblyInfo.cs
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Domain\obj\Debug\net8.0\Senac.GerenciamentoJogo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Domain\obj\Debug\net8.0\Senac.GerenciamentoJogo.Domain.dll
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Domain\obj\Debug\net8.0\refint\Senac.GerenciamentoJogo.Domain.dll
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Domain\obj\Debug\net8.0\Senac.GerenciamentoJogo.Domain.pdb
+C:\Users\BRUNOHENSELBRITESJUN\source\repos\Senac.GerenciamentoJogo.Domain\obj\Debug\net8.0\ref\Senac.GerenciamentoJogo.Domain.dll

@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddScoped<IDbConnectionFactory>(x =>
 {
-    return new DbConnectionFactory("Server=(localdb)\\MSSQLLocalDB;Database=gerenciamento_jogo; Trusted_connection=True;");
+    return new DbConnectionFactory("Server=(localdb)\\MSSQLLocalDB;Database=gerenciamento_locadora; Trusted_connection=True;");
 });
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
